@@ -1,4 +1,7 @@
+ 
 <p align = "center"><b>= Accurate Progress & Sorting On Anime List =</p>
+
+<p align = "center">Accurately sorts your anime list by progress, and displays correct progress percentages for each anime</p>
 
 <p align = "center">Download here:</p>
 
